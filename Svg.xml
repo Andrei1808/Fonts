@@ -20,7 +20,7 @@
 </head>
 <body>
 <div class="wrapper">
-	<svg class="svg-property">
+	<svg class="svg-property" xmlns:"http://www.w3.org/2000/svg">
 	<ellipse rx="80" ry="22" cx="35%" cy="90%" fill="#D3D3D3"></ellipse>
 	<ellipse rx="80" ry="22" cx="65%" cy="90%" fill="#D3D3D3"></ellipse>
 	<circle r="100" cx="35%" cy="50%" fill="#FFA500"></circle>
