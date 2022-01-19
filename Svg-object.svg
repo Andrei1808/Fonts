@@ -1,0 +1,26 @@
+	
+
+			<svg xmlns="http://www.w3.org/2000/svg" class="svg-property" width="1000px" height="224px">
+			<ellipse rx="80" ry="22" cx="35%" cy="90%" fill="#D3D3D3"></ellipse>
+			<ellipse rx="80" ry="22" cx="65%" cy="90%" fill="#D3D3D3"></ellipse>
+			<circle r="100" cx="35%" cy="50%" fill="#FFA500"></circle>
+			<circle r="100" cx="65%" cy="50%" fill="#FFD700"></circle>
+			<circle r="35" cx="61%" cy="35%" fill="#ffffff"></circle>
+			<circle r="35" cx="66%" cy="35%" fill="#ffffff"></circle>
+			<circle r="35" cx="39%" cy="35%" fill="#ffffff"></circle>
+			<circle r="35" cx="34%" cy="35%" fill="#ffffff"></circle>
+			<circle r="7" cx="35%" cy="35%" fill="#000000"></circle>
+			<circle r="7" cx="40%" cy="35%" fill="#000000"></circle>
+			<circle r="7" cx="65%" cy="35%" fill="#000000"></circle>
+			<circle r="7" cx="60%" cy="35%" fill="#000000"></circle>
+			<circle r="12" cx="37%" cy="50%" fill="#000000"></circle>
+			<ellipse rx="65" ry="22" cx="20%" cy="30%" fill="#FFA500" transform="rotate(20 90 100)"></ellipse>
+			<ellipse rx="7" ry="15" cx="64%" cy="63%" fill="#FF0000"></ellipse>
+			<ellipse rx="18" ry="9" cx="36%" cy="65%" fill="#FF0000"></ellipse>
+			<polygon points="145,85 170,80 165,110" fill="#FFFFFF"></polygon>
+			<polygon points="320,30 265,25 265,65" fill="#FFA500"></polygon>
+			<polygon points="292,32 267,27 270,55" fill="#000000"></polygon>
+			<polygon points="405,30 388,0 365,20" fill="#FFA500"></polygon>
+			<polygon points="399,25 388,3 375,15" fill="#000000"></polygon>
+		</svg>
+		
